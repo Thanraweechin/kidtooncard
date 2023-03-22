@@ -108,6 +108,16 @@ flutter:
     - image/neptune.jpg
     - image/jupiter.jpg
     - image/earth.jpg
+    - image/back-Earth.jpg
+    - image/back-Jupiter.jpg
+    - image/back-moon.jpg
+    - image/back-Neptune.jpg
+    - image/back-sun.jpg
+    - image/font-earth.png
+    - image/font-jupiter.png
+    - image/font-moon.png
+    - image/font-neptune.png
+    - image/font-sun.png
 
 
 
