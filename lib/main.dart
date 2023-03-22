@@ -8,7 +8,7 @@ import './app_sceens/living_info_g2.dart';
 import './app_sceens/howto_widget.dart';
 
 void main() => runApp(MyApp());
-
+// todo ควย
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
